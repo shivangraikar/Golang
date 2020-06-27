@@ -6,7 +6,7 @@ I have been learning Golang and using certain basic programming features to unde
 
 # Contents
 
-* Loops
+* [Loops][https://github.com/shivangraikar/Golang/tree/master/Loops]
 
 * Data Structures
 
@@ -31,7 +31,7 @@ Download the zip file and extract it into the directory of your choice (we sugge
 
 Add the bin subdirectory of your Go root (for example, c:\Go\bin) to your PATH environment variable.
 
-## macOS package installer ¶
+## macOS package installer
 Download the package file, open it, and follow the prompts to install the Go tools. The package installs the Go distribution to /usr/local/go.
 
 The package should put the /usr/local/go/bin directory in your PATH environment variable. You may need to restart any open Terminal sessions for the change to take effect.
