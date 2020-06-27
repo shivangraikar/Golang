@@ -32,4 +32,5 @@ fmt.Println("Sorted elements after Bubble sort are: ")
 for i=0; i<n;i++{
 	fmt.Println(number[i])
 }
+fmt.Println("The number of iterations is",n-1)
 }
