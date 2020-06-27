@@ -6,19 +6,19 @@ I have been learning Golang and using certain basic programming features to unde
 
 # Contents
 
-* [Loops][https://github.com/shivangraikar/Golang/tree/master/Loops]
+* [Loops](https://github.com/shivangraikar/Golang/tree/master/Loops)
 
-* Data Structures
+* [Data Structures]
 
-* Functions
+* [Functions]
 
-* Switch Statements
+* [Switch Statements]
 
 # Installation
 
 ## Windows
 
-* [Official golang source download][https://golang.org/doc/install]
+* [Official golang source download](https://golang.org/doc/install)
 a zip archive that requires you to set some environment variables and an MSI installer that configures your installation automatically.
 
 * MSI installer
