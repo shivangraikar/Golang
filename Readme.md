@@ -8,11 +8,11 @@ I have been learning Golang and using certain basic programming features to unde
 
 * [Loops](https://github.com/shivangraikar/Golang/tree/master/Loops)
 
-* [Data Structures]
+* [Data Structures](https://github.com/shivangraikar/Golang/tree/master/DataStructures)
 
-* [Functions]
+* [Functions](https://github.com/shivangraikar/Golang/tree/master/Functions)
 
-* [Switch Statements]
+* [Switch Statements](https://github.com/shivangraikar/Golang/tree/master/Switch)
 
 # Installation
 
